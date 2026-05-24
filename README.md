@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Jalissia 👋
+I currently attend the University of South Florida as a Finance major with a concentration in Fintech
 
-<!--
-**benemonjalissia/benemonjalissia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Academic Interests
+- Finance, risk management and business analytics
+- Data analysis using Excel, Python and SQL
+- Financial modeling and scenario analysis
 
-Here are some ideas to get you started:
+# Career Goals
+I'm looking to land a career in financial analysis, risk analysis, or banking with a focus on applying quantitative tools to solve real-world business problems. My long term goal is to gain the necessary skills and network to be able to give back to local communitiies and small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technical Skills & Tools
+- Excel (financial modeling, scenarion analysis)
+- Python (NumPy, pandas)
+- SQL (data manipulation and querying)
+-  Tableau (data visualization and reporting)
+  
